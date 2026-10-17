@@ -11,7 +11,7 @@ order: 1
 composer require omnishield/altcha
 ```
 
-PHP 8.2 or later, `glitchr/omnishield` and `altcha-org/altcha` ^2.3. No HTTP client: this package
+PHP 8.2 or later, `omniscient/omnishield` and `altcha-org/altcha` ^2.3. No HTTP client: this package
 calls nothing.
 
 ```php
